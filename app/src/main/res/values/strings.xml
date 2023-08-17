@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Multilingual</string>
+    <string name="app_description" translatable="false">Esse é um aplicativo multilíngue</string>
+</resources>
